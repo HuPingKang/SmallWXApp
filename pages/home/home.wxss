@@ -1,0 +1,66 @@
+
+.aa{
+
+  color: red;
+  text-align: center;
+
+}
+
+.vv{
+
+  width: 320px;
+  height: 160px;
+  background-color: #e5e5e5;
+  color: white;
+  text-align: center;
+
+}
+/* 
+.flex-wrp{
+
+  width: 300px;
+  height: 100px;
+  flex-direction: column;
+
+} */
+
+.bc_green{
+
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  text-align: center;
+  color: white;
+  flex-direction: row;
+  
+}
+
+.bc_red{
+
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  flex-direction: row;
+  text-align: center;
+  color: white;
+
+}
+
+.bc_blue{
+
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  flex-direction: row;
+  text-align: center;
+  color: white;
+
+}
+
+.scroll{
+
+  width: 300pc;
+  height: 100pc;
+  background-color: #e5e5e5;
+
+}

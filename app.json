@@ -1,0 +1,32 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/detail/detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "上海才隽网络科技",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    
+    "color":"#7f7f7f",
+    "selectedColor":"#1e90ff",
+    "backgroundColor":"#fff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "音标",
+        "iconPath":"/images/symbol_normal@2x.png",
+        "selectedIconPath": "/images/symbol_selected@2x.png"
+      },
+      {
+        "pagePath": "pages/detail/detail",
+        "text": "课程",
+        "iconPath":"/images/lexicon_normal@2x.png",
+        "selectedIconPath":"/images/lexicon_selected@2x.png"
+      }
+    ]
+  }
+}
